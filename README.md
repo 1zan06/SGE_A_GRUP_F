@@ -16,6 +16,10 @@ Moduls encarregats a cada membre del grup:
 
 ## Empleats
 
+A l'apartat d'empleats, podem crear a cada empleat, asignant a cadascun un tasca que fagin, el seu càrrecque te a l'empresa, habilitats de la persona, el currículum també, pots posar informació de treball, informació privada.
+
+Hi ha un apartat de departaments, un altre que és l'organigrama, on surt més esquematitzat els empleats de l'empresa, de cada empleat pots saber també la ubicació al seu treball, l'horari que fa, motius de la salida de l'empresa i tipus d'habilitats.
+
 ## Vendes
 
 A l'apartat de ventes podem veure tots els encarregs que s'han fet al llarg del temps. A més també en pots crear de noves manualment o de manera autoàmtica al fer una comanda. A més et deixa constança de totes les dades necesaries per aquests encàrregs, com ara: els productes consumits, la quantitat d'aquests productes, l'import total, la manera de pagar, etc...
@@ -33,6 +37,12 @@ A l'hora de clicar en una taula, et surtira un menú amb tots els productes de l
 Per concloure, s'haurà de pagar en caixa. Aquest modul t'indica els diners que ha de pagar el client i els diners que hi ha a la caixa registradora. Dit això el següent pas pasa a ser el començament del mòdul de vendes.
 
 ## Events
+
+En aquest apartat pots plantejar, crear, organitzar events que vols que es puguin fer al restaurant, es divideix en tren parts l'apartat principal, els events Nous, Reservats, Anunciats, en aquest pots anar editat-los i posar l'etapa per la que estan passant.
+
+Pots dins de cada event que editis, posar preu a entrades, com vols que es comuniqui l'event amb els clients, també unes notes pots posar per poder organitzarte millor, dins de configuració ja podras editar les plantilles, les etapes i les etiquetes. 
+
+Al acabar un event es pot consultar en l'apartat d'informes, on et surt les ventes, els assistents, els ingressos, ja sigui de forma esquematica o gràfica.
 
 ## Calendari
 
